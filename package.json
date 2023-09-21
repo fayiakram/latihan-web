@@ -1,0 +1,28 @@
+{
+  "name": "latihan-website",
+  "version": "1.0.0",
+  "description": "latihan-web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fayiakram/latihan-web.git"
+  },
+  "author": "fayi.akram99@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fayiakram/latihan-web/issues"
+  },
+  "homepage": "https://github.com/fayiakram/latihan-web#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
